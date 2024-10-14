@@ -1,7 +1,7 @@
 public class PrintApp {
     public static void main(String[] args) throws Exception {
         //Alustetaan muuttujat
-        String tekija = "Wilma"; //Aseta oma nimeni tähän
+        String tekija = "Wilma"; //Asetan oman nimeni tähän
         int luku1 = 6; // Aseta arvo
         int luku2 = 18;
         int tulo;
@@ -15,6 +15,7 @@ public class PrintApp {
         System.out.println(tekija);
 
         //System.out.println(luku1); Kommentoitu pois
+        
         //Tulostetaan konsoliin:"Luku1-muuttujan arvo on 6"
         System.out.println("Luku1-muuttujan arvo on " + luku1);
         //Tulosta konsoliin vielä:"Luku2-muuttujan arvo on 18"
